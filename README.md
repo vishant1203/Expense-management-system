@@ -1,4 +1,5 @@
 # Expense Management System
+Note: to understand this project, please use **Project Processs/** file also.
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
@@ -16,7 +17,7 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
+   git clone https://github.com/vishant1203/expense-management-system.git
    cd expense-management-system
    ```
 1. **Install dependencies:**:   
