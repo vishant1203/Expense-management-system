@@ -1,4 +1,4 @@
-# Expense Management System
+# Expense Management System Using Python
 Note: To understand this project process, please check and see **Project Processs** file also.
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
