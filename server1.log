@@ -1,0 +1,587 @@
+2025-04-05 09:57:18,159 - db_helper - INFO - executed 12024-08-04
+2025-04-05 10:24:39,753 - db_helper - INFO - executed 3
+2025-04-05 10:24:39,759 - db_helper - INFO - executed 2
+2025-04-05 10:24:39,768 - db_helper - INFO - executed 2
+2025-04-05 10:24:39,775 - db_helper - INFO - executed 2
+2025-04-05 10:24:39,783 - db_helper - INFO - executed 2
+2025-04-05 10:27:23,946 - db_helper - INFO - insert expense for date {expense_date}
+2025-04-05 10:27:23,962 - db_helper - INFO - insert expense for date {expense_date}
+2025-04-05 10:27:23,974 - db_helper - INFO - insert expense for date {expense_date}
+2025-04-05 10:27:23,980 - db_helper - INFO - insert expense for date {expense_date}
+2025-04-05 10:27:23,988 - db_helper - INFO - insert expense for date {expense_date}
+2025-04-05 10:28:09,501 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:28:09,518 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:28:09,530 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:28:09,530 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:28:09,540 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:29:47,724 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:29:47,749 - db_helper - INFO - insert expense on date 2030-08-01 for amount 1227.0, category Rent, notesMonthly rent payment
+2025-04-05 10:29:47,756 - db_helper - INFO - insert expense on date 2030-08-01 for amount 300.0, category Food, notesGroceries for the week
+2025-04-05 10:29:47,757 - db_helper - INFO - insert expense on date 2030-08-01 for amount 1200.0, category Rent, notesMonthly rent payment
+2025-04-05 10:29:47,769 - db_helper - INFO - insert expense on date 2030-08-01 for amount 300.0, category Food, notesGroceries for the week
+2025-04-05 10:30:14,456 - db_helper - INFO - insert expense for date 2030-08-01
+2025-04-05 10:30:14,472 - db_helper - INFO - insert expense on date 2030-08-01 for amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-04-05 10:30:14,472 - db_helper - INFO - insert expense on date 2030-08-01 for amount: 300.0, category: Food, notes: Groceries for the week
+2025-04-05 10:30:14,488 - db_helper - INFO - insert expense on date 2030-08-01 for amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-04-05 10:30:14,491 - db_helper - INFO - insert expense on date 2030-08-01 for amount: 300.0, category: Food, notes: Groceries for the week
+2025-04-05 10:38:36,986 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 01-12-2024
+2025-04-05 10:39:41,548 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-12-01
+2025-04-05 10:42:11,936 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2025-12-01
+2025-04-05 10:42:16,939 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2025-12-01
+2025-04-05 10:43:26,091 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2025-12-01
+2025-04-05 10:43:32,232 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2025-12-01
+2025-04-05 10:46:43,328 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2025-12-01
+2025-04-05 10:49:13,176 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-05 10:50:05,265 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-05 11:02:23,679 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 07:56:00,319 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 08:03:20,798 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 08:09:20,039 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 08:10:57,840 - db_helper - INFO - fetch expense for date called with 2024-08-04
+2025-04-06 08:11:00,839 - db_helper - INFO - fetch expense for date called with 2024-08-06
+2025-04-06 08:11:03,411 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 08:11:16,371 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 08:11:20,230 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 08:53:36,938 - db_helper - INFO - fetch expense for date called with 2024-08-07
+2025-04-06 08:53:39,251 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 08:53:41,238 - db_helper - INFO - fetch expense for date called with 2024-08-12
+2025-04-06 08:53:42,983 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 08:54:56,366 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 08:55:27,746 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 09:15:04,702 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 09:15:08,651 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:24:13,817 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:24:43,674 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:26:20,491 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:26:38,134 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:58:01,802 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 09:59:43,352 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:00:12,176 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:01:28,363 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:01:45,125 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 10:01:47,529 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:04:15,325 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:04:42,251 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:05:33,161 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:05:42,363 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:06:14,017 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:13:25,311 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:13:28,014 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:13:30,130 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:34:03,622 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:34:07,904 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:35:06,990 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:35:12,471 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:38:25,775 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:38:28,765 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 10:38:57,580 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 10:39:03,023 - db_helper - INFO - fetch expense for date called with 2024-08-04
+2025-04-06 10:39:06,323 - db_helper - INFO - fetch expense for date called with 2024-08-14
+2025-04-06 10:39:08,760 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 10:39:33,445 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 10:39:35,964 - db_helper - INFO - fetch expense for date called with 2024-08-16
+2025-04-06 10:39:37,991 - db_helper - INFO - fetch expense for date called with 2024-08-17
+2025-04-06 10:39:39,962 - db_helper - INFO - fetch expense for date called with 2024-08-19
+2025-04-06 10:39:42,067 - db_helper - INFO - fetch expense for date called with 2024-08-20
+2025-04-06 10:39:43,960 - db_helper - INFO - fetch expense for date called with 2024-08-23
+2025-04-06 10:39:46,356 - db_helper - INFO - fetch expense for date called with 2024-08-25
+2025-04-06 10:39:49,576 - db_helper - INFO - fetch expense for date called with 2024-08-15
+2025-04-06 10:39:52,812 - db_helper - INFO - fetch expense for date called with 2024-08-14
+2025-04-06 10:39:54,765 - db_helper - INFO - fetch expense for date called with 2024-08-13
+2025-04-06 10:39:56,288 - db_helper - INFO - fetch expense for date called with 2024-08-12
+2025-04-06 10:39:58,001 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 10:39:59,960 - db_helper - INFO - fetch expense for date called with 2024-08-10
+2025-04-06 10:40:01,449 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 10:40:02,978 - db_helper - INFO - fetch expense for date called with 2024-08-08
+2025-04-06 10:40:05,412 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 10:40:07,456 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:43:14,608 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:43:19,267 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:47:40,859 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:47:44,381 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:47:48,241 - db_helper - INFO - fetch expense for date called with 2024-08-08
+2025-04-06 10:47:49,858 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:54:57,877 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:55:10,219 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 10:55:51,929 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:14:33,769 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 11:25:24,349 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 11:25:45,436 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 11:25:47,595 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:27:13,475 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 11:28:28,876 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:28:36,169 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 11:30:04,859 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:31:22,669 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:31:22,698 - db_helper - INFO - insert expense on date 2024-08-11
+2025-04-06 11:31:22,707 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 1500.0, category: Rent, notes: Monthly rent
+2025-04-06 11:31:22,720 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 325.0, category: Food, notes: Had birthday party
+2025-04-06 11:31:22,728 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Entertainment, notes: watched Movie chawwa
+2025-04-06 11:31:32,811 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:31:32,831 - db_helper - INFO - insert expense on date 2024-08-11
+2025-04-06 11:31:32,844 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 1500.0, category: Rent, notes: Monthly rent
+2025-04-06 11:31:32,852 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 325.0, category: Food, notes: Had birthday party
+2025-04-06 11:31:32,861 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Entertainment, notes: watched Movie chawwa
+2025-04-06 11:31:32,869 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 4.0, category: Other, notes: 
+2025-04-06 11:31:32,877 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 4.0, category: Other, notes: 
+2025-04-06 11:34:01,106 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:34:01,127 - db_helper - INFO - insert expense on date 2024-08-11
+2025-04-06 11:34:01,141 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 1500.0, category: Rent, notes: Monthly rent
+2025-04-06 11:34:01,149 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 325.0, category: Food, notes: Had birthday party
+2025-04-06 11:34:01,157 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Entertainment, notes: watched Movie chawwa
+2025-04-06 11:34:01,164 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 4.0, category: Other, notes: Bought scooty
+2025-04-06 11:34:01,173 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 4.0, category: Other, notes: Bought bicycle
+2025-04-06 11:34:16,649 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:34:16,669 - db_helper - INFO - insert expense on date 2024-08-11
+2025-04-06 11:34:16,684 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 1500.0, category: Rent, notes: Monthly rent
+2025-04-06 11:34:16,692 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 325.0, category: Food, notes: Had birthday party
+2025-04-06 11:34:16,700 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Entertainment, notes: watched Movie chawwa
+2025-04-06 11:34:16,708 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 200.0, category: Other, notes: Bought scooty
+2025-04-06 11:34:16,718 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Other, notes: Bought bicycle
+2025-04-06 11:35:12,610 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:35:14,162 - db_helper - INFO - fetch expense for date called with 2024-08-11
+2025-04-06 11:35:14,182 - db_helper - INFO - insert expense on date 2024-08-11
+2025-04-06 11:35:14,195 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 1500.0, category: Rent, notes: Monthly rent
+2025-04-06 11:35:14,202 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 325.0, category: Food, notes: Had birthday party
+2025-04-06 11:35:14,211 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Entertainment, notes: watched Movie chawwa
+2025-04-06 11:35:14,219 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 200.0, category: Other, notes: Bought scooty
+2025-04-06 11:35:14,228 - db_helper - INFO - insert expense on date 2024-08-11 for amount: 100.0, category: Other, notes: Bought bicycle
+2025-04-06 11:36:27,405 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:36:37,969 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:36:39,687 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 11:36:39,707 - db_helper - INFO - insert expense on date 2024-08-02
+2025-04-06 11:36:39,716 - db_helper - INFO - insert expense on date 2024-08-02 for amount: 50.0, category: Entertainment, notes: Movie tickets
+2025-04-06 11:36:39,725 - db_helper - INFO - insert expense on date 2024-08-02 for amount: 150.0, category: Shopping, notes: New shoes
+2025-04-06 11:36:39,732 - db_helper - INFO - insert expense on date 2024-08-02 for amount: 400.0, category: Food, notes: Groceries for the week
+2025-04-06 11:36:39,740 - db_helper - INFO - insert expense on date 2024-08-02 for amount: 80.0, category: Entertainment, notes: Concert tickets
+2025-04-06 11:36:39,748 - db_helper - INFO - insert expense on date 2024-08-02 for amount: 100.0, category: Shopping, notes: Clothes
+2025-04-06 11:37:34,487 - db_helper - INFO - fetch expense for date called with 2025-07-24
+2025-04-06 11:37:46,667 - db_helper - INFO - fetch expense for date called with 2025-07-24
+2025-04-06 11:37:46,687 - db_helper - INFO - insert expense on date 2025-07-24
+2025-04-06 11:37:46,694 - db_helper - INFO - insert expense on date 2025-07-24 for amount: 1.0, category: Rent, notes: 
+2025-04-06 11:37:46,706 - db_helper - INFO - insert expense on date 2025-07-24 for amount: 1.0, category: Food, notes: 
+2025-04-06 11:37:46,714 - db_helper - INFO - insert expense on date 2025-07-24 for amount: 1.0, category: Shopping, notes: 
+2025-04-06 11:37:46,722 - db_helper - INFO - insert expense on date 2025-07-24 for amount: 1.0, category: Entertainment, notes: 
+2025-04-06 11:37:46,729 - db_helper - INFO - insert expense on date 2025-07-24 for amount: 1.0, category: Other, notes: 
+2025-04-06 14:06:43,355 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 14:06:46,707 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 14:06:49,252 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 14:06:50,727 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 14:06:52,643 - db_helper - INFO - fetch expense for date called with 2024-08-04
+2025-04-06 14:06:54,844 - db_helper - INFO - fetch expense for date called with 2024-08-06
+2025-04-06 14:06:56,575 - db_helper - INFO - fetch expense for date called with 2024-08-08
+2025-04-06 14:07:18,038 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 14:07:24,237 - db_helper - INFO - fetch expense for date called with 2024-08-03
+2025-04-06 14:07:27,058 - db_helper - INFO - fetch expense for date called with 2024-08-04
+2025-04-06 15:10:28,077 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 15:37:40,113 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 15:46:56,216 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 15:56:04,849 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-06 15:56:49,701 - db_helper - INFO - insert expense on date 2035-08-01
+2025-04-06 15:56:49,706 - db_helper - INFO - insert expense on date 2035-08-01 for amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-04-06 16:06:52,407 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 16:13:08,965 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 16:13:36,463 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 16:33:24,179 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2025-01-31
+2025-04-06 16:33:50,086 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 16:34:21,639 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 16:34:37,038 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 17:01:35,490 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 17:01:41,704 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:01:53,345 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:01:53,373 - db_helper - INFO - insert expense on date 2024-08-09
+2025-04-06 17:01:53,385 - db_helper - INFO - insert expense on date 2024-08-09 for amount: 1000.0, category: Rent, notes: rent
+2025-04-06 17:02:02,022 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:02:02,051 - db_helper - INFO - insert expense on date 2024-08-09
+2025-04-06 17:02:02,062 - db_helper - INFO - insert expense on date 2024-08-09 for amount: 1000.0, category: Rent, notes: rent
+2025-04-06 17:03:14,075 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:20:36,127 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:22:29,782 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:24:31,945 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-06 17:24:44,175 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 17:26:27,817 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:27:56,597 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:27:56,627 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 17:28:46,127 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:28:46,155 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-31
+2025-04-06 17:29:04,763 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:29:04,794 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 17:29:10,672 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:29:10,702 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 17:29:20,961 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 17:29:20,991 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 18:51:20,866 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 18:51:20,902 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 18:51:43,928 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 18:51:43,958 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 18:52:25,112 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 18:52:25,141 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 18:53:24,087 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 18:53:24,116 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:01:41,986 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:01:42,017 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:03:33,737 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:03:33,767 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:07:00,124 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:07:14,831 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:07:14,862 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:13:33,746 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:13:51,542 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:13:51,572 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:14:06,308 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:14:06,339 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-02
+2025-04-06 19:14:28,673 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:15:02,109 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:15:41,090 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:16:46,806 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:16:46,836 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-06 19:16:53,890 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:16:53,920 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-15
+2025-04-06 19:18:39,187 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:18:39,219 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-01
+2025-04-06 19:18:41,044 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:18:41,073 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-01
+2025-04-06 19:19:01,729 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:19:01,758 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:19:38,521 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:19:38,549 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:19:44,309 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:19:44,340 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:19:56,005 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:19:56,035 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:28:26,298 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:28:26,327 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:28:49,242 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:28:49,273 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:29:20,188 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:29:20,218 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:29:44,457 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:29:44,488 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:29:55,308 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:29:55,338 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:33:07,146 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:33:07,177 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:34:07,472 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:34:07,503 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:34:24,747 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:34:24,777 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:34:54,004 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:34:54,036 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:35:40,867 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:35:40,898 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:35:58,516 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:35:58,548 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:50:33,753 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:50:33,783 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:51:12,780 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:51:12,812 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:51:59,093 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:51:59,123 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:52:54,620 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:52:54,652 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:53:51,091 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:53:51,121 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:53:54,440 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:53:54,469 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:55:18,795 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:55:18,826 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:55:23,321 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:55:23,350 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:59:04,858 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:59:04,896 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 19:59:36,037 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 19:59:36,066 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:01:39,947 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:01:39,977 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:01:58,149 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:01:58,184 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:20,401 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:20,438 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:22,902 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:22,933 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:30,315 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:30,354 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:32,490 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:32,522 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:40,097 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:40,130 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:42,418 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:42,449 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:02:46,476 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:02:46,506 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:03:09,356 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:03:09,385 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:03:38,804 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:03:38,843 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:03:42,593 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:03:42,626 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:03:49,368 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:03:49,399 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:03:51,502 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:03:51,533 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:00,051 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:00,086 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:10,249 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:10,278 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:22,893 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:22,927 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:26,735 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:26,767 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:41,219 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:41,249 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:04:59,090 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:04:59,128 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:05:55,668 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:05:55,701 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:07:41,004 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:07:41,037 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:08:03,523 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:08:03,560 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:09:28,691 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:09:28,721 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:09:35,773 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:09:35,803 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:09:50,701 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:09:50,728 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:09:53,604 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:09:53,636 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:10:43,621 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:10:43,652 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:11:17,049 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:11:17,082 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:12:36,857 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:12:36,888 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:12:49,768 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:12:49,803 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:13:13,643 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:13:13,679 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:14:09,873 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:14:09,910 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-15
+2025-04-06 20:14:17,006 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:14:17,035 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-16
+2025-04-06 20:14:19,231 - db_helper - INFO - fetch expense for date called with 2024-08-09
+2025-04-06 20:14:19,260 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-01 and end_date 2024-08-07
+2025-04-08 16:47:49,752 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 16:47:49,868 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:07:58,642 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:07:58,674 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:12:51,589 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:12:51,622 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:13:36,465 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:13:36,498 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:14:17,621 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:14:17,650 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:14:24,607 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:14:24,637 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:14:41,909 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:14:41,941 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:14:51,554 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:14:51,585 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:15:08,595 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:15:08,622 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 17:15:13,644 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:15:13,677 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-15
+2025-04-08 17:44:49,552 - db_helper - INFO - fetch expense month wise
+2025-04-08 17:45:21,263 - db_helper - INFO - fetch expense month wise
+2025-04-08 17:45:47,048 - db_helper - INFO - fetch expense month wise
+2025-04-08 17:54:31,650 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 17:54:32,898 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-15
+2025-04-08 18:12:36,426 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:30:52,131 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:30:52,204 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:30:52,772 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:31:32,708 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:32:02,649 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:32:03,757 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:32:14,320 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:32:14,352 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:32:14,374 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:47:03,137 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:47:03,171 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:47:03,192 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:47:29,708 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:47:29,748 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:47:29,768 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:48:56,178 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:48:56,208 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:48:56,224 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:49:38,963 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:49:38,997 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:49:39,018 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:51:42,711 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:51:42,741 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:51:42,758 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:58:25,228 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:58:25,261 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:58:25,278 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:59:22,160 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:59:22,192 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:59:22,212 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:59:36,285 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:59:36,318 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:59:36,338 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:59:41,787 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:59:41,815 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:59:41,840 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:59:53,921 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:59:53,949 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:59:53,973 - db_helper - INFO - fetch expense month wise
+2025-04-08 18:59:56,471 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 18:59:56,503 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 18:59:56,525 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:03:19,021 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:03:19,051 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:03:19,073 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:03:21,991 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:03:22,023 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:03:22,044 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:04:46,229 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:04:46,260 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:04:46,272 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:04:48,546 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:04:48,575 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:04:48,597 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:05:01,834 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:05:01,857 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:05:01,884 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:05:54,885 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:05:54,917 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:05:54,935 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:05:57,501 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:05:57,530 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:05:57,546 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:06:46,221 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:06:46,255 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:06:46,278 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:06:51,032 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:06:51,062 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:06:51,084 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:07:45,308 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:07:45,334 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:07:45,360 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:07:53,828 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:07:53,860 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:07:53,883 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:08:12,138 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:08:12,165 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:08:12,195 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:08:32,487 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:08:32,506 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:08:32,539 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:08:35,677 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:08:35,710 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:08:35,732 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:09:11,762 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:09:11,791 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:09:11,811 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:09:33,178 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:09:33,209 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:09:33,230 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:09:49,002 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:09:49,031 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:09:49,051 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:10:03,758 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:10:03,799 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:10:03,815 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:12:22,060 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:12:22,094 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:12:22,116 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:13:16,569 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:13:16,606 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:13:16,632 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:13:39,765 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:13:39,793 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:13:39,816 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:13:56,680 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:13:56,710 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:13:56,745 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:14:00,304 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:14:00,334 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:14:00,355 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:14:10,107 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:14:10,149 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:14:10,176 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:14:14,124 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:14:14,155 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:14:14,177 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:14:37,847 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:14:37,875 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:14:37,896 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:15:09,561 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:15:09,594 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:15:09,623 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:15:13,975 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:15:14,004 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:15:14,025 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:17:04,171 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:17:04,211 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:17:04,230 - db_helper - INFO - fetch expense month wise
+2025-04-08 19:23:26,422 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 19:23:26,455 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 19:23:26,471 - db_helper - INFO - fetch expense month wise
+2025-04-08 21:34:09,479 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 21:34:09,513 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 21:34:09,530 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:26:53,680 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 22:26:53,755 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:26:53,819 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:27:02,577 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 22:27:02,646 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:27:02,687 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:27:20,732 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 22:27:20,781 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:27:20,823 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:27:24,867 - db_helper - INFO - fetch expense for date called with 2024-08-02
+2025-04-08 22:27:24,927 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:27:24,968 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:30:47,691 - db_helper - INFO - fetch expense for date called with 2024-12-02
+2025-04-08 22:30:47,760 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:30:47,803 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:31:18,470 - db_helper - INFO - fetch expense for date called with 2024-12-02
+2025-04-08 22:31:18,525 - db_helper - INFO - insert expense on date 2024-12-02
+2025-04-08 22:31:18,550 - db_helper - INFO - insert expense on date 2024-12-02 for amount: 150.0, category: Entertainment, notes: Movie
+2025-04-08 22:31:18,566 - db_helper - INFO - insert expense on date 2024-12-02 for amount: 1200.0, category: Rent, notes: Monthly _Rent
+2025-04-08 22:31:18,587 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-08-02
+2025-04-08 22:31:18,623 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:31:40,292 - db_helper - INFO - fetch expense for date called with 2024-12-02
+2025-04-08 22:31:40,349 - db_helper - INFO - fetch category wise exepnses from start date 2024-08-02 and end_date 2024-12-31
+2025-04-08 22:31:40,384 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:31:47,415 - db_helper - INFO - fetch expense for date called with 2024-12-02
+2025-04-08 22:31:47,473 - db_helper - INFO - fetch category wise exepnses from start date 2024-12-01 and end_date 2024-12-31
+2025-04-08 22:31:47,507 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:37:30,597 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-08 22:37:30,655 - db_helper - INFO - fetch category wise exepnses from start date 2024-12-01 and end_date 2024-12-31
+2025-04-08 22:37:30,690 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:37:59,601 - db_helper - INFO - fetch expense for date called with 2025-01-01
+2025-04-08 22:37:59,660 - db_helper - INFO - fetch category wise exepnses from start date 2024-12-01 and end_date 2024-12-31
+2025-04-08 22:37:59,699 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:38:25,745 - db_helper - INFO - fetch expense for date called with 2025-01-01
+2025-04-08 22:38:25,802 - db_helper - INFO - insert expense on date 2025-01-01
+2025-04-08 22:38:25,816 - db_helper - INFO - insert expense on date 2025-01-01 for amount: 1500.0, category: Rent, notes: Monthly_rent
+2025-04-08 22:38:25,842 - db_helper - INFO - insert expense on date 2025-01-01 for amount: 150.0, category: Entertainment, notes: Movie
+2025-04-08 22:38:25,865 - db_helper - INFO - fetch category wise exepnses from start date 2024-12-01 and end_date 2024-12-31
+2025-04-08 22:38:25,901 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:38:41,269 - db_helper - INFO - fetch expense for date called with 2025-01-01
+2025-04-08 22:38:41,322 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2024-12-31
+2025-04-08 22:38:41,357 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:38:44,846 - db_helper - INFO - fetch expense for date called with 2025-01-01
+2025-04-08 22:38:44,907 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2025-01-31
+2025-04-08 22:38:44,940 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:40:03,395 - db_helper - INFO - fetch expense for date called with 2024-08-01
+2025-04-08 22:40:03,452 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2025-01-31
+2025-04-08 22:40:03,485 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:40:39,310 - db_helper - INFO - fetch expense for date called with 2025-02-03
+2025-04-08 22:40:39,366 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2025-01-31
+2025-04-08 22:40:39,402 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:41:11,756 - db_helper - INFO - fetch expense for date called with 2025-02-03
+2025-04-08 22:41:11,812 - db_helper - INFO - insert expense on date 2025-02-03
+2025-04-08 22:41:11,825 - db_helper - INFO - insert expense on date 2025-02-03 for amount: 20000.0, category: Rent, notes: Monthly_rent
+2025-04-08 22:41:11,851 - db_helper - INFO - insert expense on date 2025-02-03 for amount: 500.0, category: Entertainment, notes: Movie
+2025-04-08 22:41:11,871 - db_helper - INFO - fetch category wise exepnses from start date 2025-01-01 and end_date 2025-01-31
+2025-04-08 22:41:11,909 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:41:27,964 - db_helper - INFO - fetch expense for date called with 2025-02-03
+2025-04-08 22:41:28,023 - db_helper - INFO - fetch category wise exepnses from start date 2025-02-01 and end_date 2025-01-31
+2025-04-08 22:41:28,057 - db_helper - INFO - fetch expense month wise
+2025-04-08 22:41:31,683 - db_helper - INFO - fetch expense for date called with 2025-02-03
+2025-04-08 22:41:31,735 - db_helper - INFO - fetch category wise exepnses from start date 2025-02-01 and end_date 2025-02-28
+2025-04-08 22:41:31,775 - db_helper - INFO - fetch expense month wise
