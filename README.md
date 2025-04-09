@@ -1,5 +1,5 @@
 # Expense Management System
-Note: To understand this project, please use **Project Processs/** file also.
+Note: To understand this project process, please check and see **Project Processs** file also.
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
